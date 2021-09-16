@@ -1,0 +1,12 @@
+.text{
+    margin-bottom: 10px;
+}
+.change{
+    display:flex;
+    align-items: center;
+    justify-content: flex-end;
+   
+}
+.change img{
+    cursor: pointer;
+}

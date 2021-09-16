@@ -1,0 +1,23 @@
+.boldText {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 55px;
+  color:#3F403F;
+}
+.text{
+  font-family: Graphik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 200%;
+color: #3F403F;
+}
+
+.mediumText{
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+color: #3F403F
+}
